@@ -26,3 +26,7 @@ That's why I need to do something. Let's check out this repository and see how l
         "token_secret_key": "mroom_software"
     }
 ```
+
+Congratulation!
+
+P/S: if there are any issues, don't hesitate to contact me at trongdinh@mroomsoft.com
