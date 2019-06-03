@@ -3,9 +3,9 @@ package daos
 import (
 	"github.com/jinzhu/gorm"
 	"github.com/pkg/errors"
-	"github.com/trongdth/mroom_backend/config"
-	"github.com/trongdth/mroom_backend/database"
-	"github.com/trongdth/mroom_backend/models"
+	"github.com/trongdth/gin_template/config"
+	"github.com/trongdth/gin_template/database"
+	"github.com/trongdth/gin_template/models"
 )
 
 var (

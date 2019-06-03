@@ -3,7 +3,7 @@ package database
 import (
 	"github.com/jinzhu/gorm"
 	"github.com/pkg/errors"
-	"github.com/trongdth/mroom_backend/config"
+	"github.com/trongdth/gin_template/config"
 )
 
 // Init : config

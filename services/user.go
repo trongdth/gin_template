@@ -3,9 +3,9 @@ package services
 import (
 	"github.com/jinzhu/gorm"
 	"github.com/pkg/errors"
-	"github.com/trongdth/mroom_backend/config"
-	"github.com/trongdth/mroom_backend/daos"
-	"github.com/trongdth/mroom_backend/models"
+	"github.com/trongdth/gin_template/config"
+	"github.com/trongdth/gin_template/daos"
+	"github.com/trongdth/gin_template/models"
 	"golang.org/x/crypto/bcrypt"
 )
 

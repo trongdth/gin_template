@@ -7,9 +7,9 @@ import (
 	jwt "github.com/appleboy/gin-jwt"
 
 	"github.com/gin-gonic/gin"
-	"github.com/trongdth/mroom_backend/models"
-	"github.com/trongdth/mroom_backend/serializers"
-	"github.com/trongdth/mroom_backend/services"
+	"github.com/trongdth/gin_template/models"
+	"github.com/trongdth/gin_template/serializers"
+	"github.com/trongdth/gin_template/services"
 )
 
 const ()

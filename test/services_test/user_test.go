@@ -2,9 +2,9 @@ package services_test
 
 import (
 	"github.com/stretchr/testify/suite"
-	"github.com/trongdth/mroom_backend/config"
-	"github.com/trongdth/mroom_backend/daos"
-	"github.com/trongdth/mroom_backend/services"
+	"github.com/trongdth/gin_template/config"
+	"github.com/trongdth/gin_template/daos"
+	"github.com/trongdth/gin_template/services"
 
 	_ "github.com/go-sql-driver/mysql"
 )

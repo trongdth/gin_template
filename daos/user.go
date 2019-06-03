@@ -4,7 +4,7 @@ import (
 	"github.com/jinzhu/gorm"
 	"github.com/pkg/errors"
 
-	"github.com/trongdth/mroom_backend/models"
+	"github.com/trongdth/gin_template/models"
 )
 
 // User : struct

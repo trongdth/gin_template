@@ -8,10 +8,10 @@ import (
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/trongdth/mroom_backend/api"
-	"github.com/trongdth/mroom_backend/config"
-	"github.com/trongdth/mroom_backend/daos"
-	"github.com/trongdth/mroom_backend/services"
+	"github.com/trongdth/gin_template/api"
+	"github.com/trongdth/gin_template/config"
+	"github.com/trongdth/gin_template/daos"
+	"github.com/trongdth/gin_template/services"
 	"go.uber.org/zap"
 )
 

@@ -4,9 +4,9 @@ import (
 	"net/http"
 
 	"github.com/gin-gonic/gin"
-	"github.com/trongdth/mroom_backend/helpers"
-	"github.com/trongdth/mroom_backend/serializers"
-	"github.com/trongdth/mroom_backend/services"
+	"github.com/trongdth/gin_template/helpers"
+	"github.com/trongdth/gin_template/serializers"
+	"github.com/trongdth/gin_template/services"
 )
 
 // DefaultWelcome : ...

@@ -5,9 +5,9 @@ import (
 
 	"github.com/gin-gonic/gin"
 	"github.com/pkg/errors"
-	"github.com/trongdth/mroom_backend/config"
-	"github.com/trongdth/mroom_backend/models"
-	"github.com/trongdth/mroom_backend/services"
+	"github.com/trongdth/gin_template/config"
+	"github.com/trongdth/gin_template/models"
+	"github.com/trongdth/gin_template/services"
 )
 
 type Server struct {
