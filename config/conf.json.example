@@ -1,0 +1,6 @@
+{
+  "env": "localhost",
+  "port": 8000,
+  "db": "",
+  "token_secret_key": ""
+}
