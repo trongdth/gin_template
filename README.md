@@ -13,7 +13,7 @@ That's why I need to do something. Let's check out this repository and see how l
 
 ## How to run:
 
-- go get -u github.com/trongdth/gin_template.git
+- go get -u github.com/trongdth/gin_template
 - cd $GOPATH/src/github.com/trongdth/gin_template
 - dep ensure
 - mv config/conf.json.example config/conf.json (here is my sample config)
